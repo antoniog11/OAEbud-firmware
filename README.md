@@ -17,7 +17,7 @@ Download and install Segger Embedded Studio from the official website. Make sure
 Clone the OAEbud firmware repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/antoniog11/OAEbud-software/tree/master
+git clone https://github.com/antoniog11/OAEbud-firmware
 ```
 
 #### 3. Open the Firmware Project:
