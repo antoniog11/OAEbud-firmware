@@ -1,3 +1,0 @@
-$(ProjectDir)/libraries/opus-1.2.1/arm
-$(ProjectDir)/libraries/opus-1.2.1
-$(ProjectDir)/libraries/
