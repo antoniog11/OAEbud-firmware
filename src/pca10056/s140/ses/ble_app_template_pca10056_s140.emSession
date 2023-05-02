@@ -33,8 +33,6 @@
   <ProjectSessionItem path="woofids"/>
   <ProjectSessionItem path="woofids;ble_app_template_pca10056_s140"/>
   <ProjectSessionItem path="woofids;ble_app_template_pca10056_s140;Application"/>
-  <ProjectSessionItem path="woofids;ble_app_template_pca10056_s140;Application;common"/>
-  <ProjectSessionItem path="woofids;ble_app_template_pca10056_s140;Application;common;motion"/>
   <ProjectSessionItem path="woofids;ble_app_template_pca10056_s140;Application;peripherals"/>
  </Project>
  <Register1>
@@ -83,20 +81,21 @@
   <SessionOpenFile windowGroup="DockEditLeft" x="15" y="319" useTextEdit="1" openedFrom="/home/malek/UW/Projects/SonoZooid/ClearBuds/woofids/main.c" path="../../../accel.c" left="0" top="289" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="3" y="8" useTextEdit="1" path="../../../ble_sss.c" left="0" top="3" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="28" y="17" useTextEdit="1" openedFrom="/home/malek/UW/Projects/SonoZooid/ClearBuds/woofids/ble_sss.c" path="../../../sensors.h" left="0" top="0" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="50" y="655" useTextEdit="1" path="../../../channel_utils.c" left="0" top="585" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="18" y="220" useTextEdit="1" path="../../../main.c" left="0" top="220" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="22" y="901" useTextEdit="1" openedFrom="C:/Users/aglenn5/Desktop/woofids-master/woofids-master/main.c" path="../../../time_sync.c" left="0" top="831" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="50" y="655" useTextEdit="1" path="../../../channel_utils.c" left="0" top="626" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="15" y="232" useTextEdit="1" path="../../../main.c" left="0" selected="1" top="220" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="22" y="901" useTextEdit="1" openedFrom="C:/Users/aglenn5/Desktop/woofids-master/woofids-master/main.c" path="../../../time_sync.c" left="0" top="872" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="1" y="19" useTextEdit="1" openedFrom="C:/Users/aglenn5/Desktop/woofids-master/woofids-master/main.c" path="../../../buzzer.c" left="0" top="0" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" path="../../../ble_ass.c" left="0" top="24" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="135" useTextEdit="1" path="../../../stereo.h" left="0" top="118" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="34" y="81" useTextEdit="1" openedFrom="C:/Users/aglenn5/Desktop/woofids-master/woofids-master/buzzer.c" path="../../../i2s.c" left="0" top="51" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="34" y="81" useTextEdit="1" openedFrom="C:/Users/aglenn5/Desktop/woofids-master/woofids-master/buzzer.c" path="../../../i2s.c" left="0" top="52" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="8" y="8" useTextEdit="1" path="../../../buzzer.h" left="0" top="0" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="46" y="7" useTextEdit="1" path="../../../ble_config.h" left="0" top="0" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="16" y="28" useTextEdit="1" openedFrom="C:/Users/aglenn5/Desktop/woofids-master/woofids-master/i2s.c" path="../../../i2s.h" left="0" top="0" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="29" y="82" useTextEdit="1" path="../../../channel_utils.h" left="0" top="82" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="19" useTextEdit="1" path="../../../ble_manager.h" left="0" top="0" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="6" y="775" useTextEdit="1" path="../config/sdk_config.h" left="0" selected="1" top="752" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="769" useTextEdit="1" path="../config/sdk_config.h" left="0" top="737" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" path="../../../motors.c" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" path="../../../ble_cus.h" left="0" top="0" codecName="Default"/>
  </Files>
- <EMStudioWindow activeProject="ble_app_template_pca10056_s140" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3199"/>
+ <EMStudioWindow activeProject="ble_app_template_pca10056_s140" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3199"/>
 </session>
