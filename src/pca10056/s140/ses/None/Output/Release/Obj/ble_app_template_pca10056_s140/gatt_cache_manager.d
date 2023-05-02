@@ -1,14 +1,13 @@
 Output/Release/Obj/ble_app_template_pca10056_s140/gatt_cache_manager.o: \
- C:\Users\aglenn5\Desktop\woofids-master\SDK\components\ble\peer_manager\gatt_cache_manager.c \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/SDK/components/ble/peer_manager/gatt_cache_manager.c \
  ../../../../../SDK/components/libraries/util/sdk_common.h \
- C:/Users/aglenn5/AppData/Local/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stdint.h \
- C:/Users/aglenn5/AppData/Local/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/__config \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/stdint.h \
- C:/Users/aglenn5/AppData/Local/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stdbool.h \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/stdbool.h \
- C:/Users/aglenn5/AppData/Local/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/string.h \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/string.h \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/__crossworks.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stdint.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL_ConfDefaults.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL_Conf.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL_Arm_Conf.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stdbool.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/string.h \
  ../../config/sdk_config.h \
  ../../../../../SDK/components/libraries/util/nordic_common.h \
  ../../../../../SDK/modules/nrfx/mdk/compiler_abstraction.h \
@@ -16,8 +15,7 @@ Output/Release/Obj/ble_app_template_pca10056_s140/gatt_cache_manager.o: \
  ../../../../../SDK/components/libraries/util/sdk_errors.h \
  ../../../../../SDK/components/softdevice/s140/headers/nrf_error.h \
  ../../../../../SDK/components/libraries/util/app_util.h \
- C:/Users/aglenn5/AppData/Local/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stddef.h \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/stddef.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stddef.h \
  ../../../../../SDK/modules/nrfx/mdk/nrf.h \
  ../../../../../SDK/modules/nrfx/mdk/nrf52840.h \
  ../../../../../SDK/components/toolchain/cmsis/include/core_cm4.h \
@@ -34,7 +32,7 @@ Output/Release/Obj/ble_app_template_pca10056_s140/gatt_cache_manager.o: \
  ../../../../../SDK/components/softdevice/s140/headers/nrf_svc.h \
  ../../../../../SDK/components/libraries/util/sdk_macros.h \
  ../../../../../SDK/components/libraries/util/nrf_assert.h \
- C:\Users\aglenn5\Desktop\woofids-master\SDK\components\ble\peer_manager\gatt_cache_manager.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/SDK/components/ble/peer_manager/gatt_cache_manager.h \
  ../../../../../SDK/components/libraries/util/sdk_errors.h \
  ../../../../../SDK/components/softdevice/s140/headers/ble.h \
  ../../../../../SDK/components/softdevice/s140/headers/nrf_svc.h \
@@ -49,7 +47,7 @@ Output/Release/Obj/ble_app_template_pca10056_s140/gatt_cache_manager.o: \
  ../../../../../SDK/components/softdevice/s140/headers/ble_gattc.h \
  ../../../../../SDK/components/softdevice/s140/headers/ble_gatts.h \
  ../../../../../SDK/components/softdevice/s140/headers/ble_gap.h \
- C:\Users\aglenn5\Desktop\woofids-master\SDK\components\ble\peer_manager\peer_manager_types.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/SDK/components/ble/peer_manager/peer_manager_types.h \
  ../../../../../SDK/components/softdevice/s140/headers/ble_hci.h \
  ../../../../../SDK/components/ble/common/ble_gatt_db.h \
  ../../../../../SDK/components/softdevice/s140/headers/ble_gattc.h \
@@ -59,17 +57,16 @@ Output/Release/Obj/ble_app_template_pca10056_s140/gatt_cache_manager.o: \
  ../../../../../SDK/components/softdevice/s140/headers/nrf_error_soc.h \
  ../../../../../SDK/components/softdevice/s140/headers/nrf_nvic.h \
  ../../../../../SDK/components/libraries/util/app_error.h \
- C:/Users/aglenn5/AppData/Local/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stdio.h \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/stdio.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stdio.h \
  ../../../../../SDK/components/libraries/util/app_error_weak.h \
  ../../../../../SDK/components/softdevice/s140/headers/ble_err.h \
  ../../../../../SDK/components/ble/common/ble_conn_state.h \
  ../../../../../SDK/components/libraries/atomic/nrf_atomic.h \
- C:\Users\aglenn5\Desktop\woofids-master\SDK\components\ble\peer_manager\peer_manager_internal.h \
- C:\Users\aglenn5\Desktop\woofids-master\SDK\components\ble\peer_manager\id_manager.h \
- C:\Users\aglenn5\Desktop\woofids-master\SDK\components\ble\peer_manager\gatts_cache_manager.h \
- C:\Users\aglenn5\Desktop\woofids-master\SDK\components\ble\peer_manager\peer_data_storage.h \
- C:\Users\aglenn5\Desktop\woofids-master\SDK\components\ble\peer_manager\peer_database.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/SDK/components/ble/peer_manager/peer_manager_internal.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/SDK/components/ble/peer_manager/id_manager.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/SDK/components/ble/peer_manager/gatts_cache_manager.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/SDK/components/ble/peer_manager/peer_data_storage.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/SDK/components/ble/peer_manager/peer_database.h \
  ../../../../../SDK/components/libraries/mutex/nrf_mtx.h \
  ../../../../../SDK/components/libraries/util/nrf_assert.h \
  ../../../../../SDK/components/libraries/log/nrf_log.h \
@@ -84,6 +81,5 @@ Output/Release/Obj/ble_app_template_pca10056_s140/gatt_cache_manager.o: \
  ../../../../../SDK/components/libraries/log/src/nrf_log_ctrl_internal.h \
  ../../../../../SDK/components/libraries/log/nrf_log_backend_interface.h \
  ../../../../../SDK/components/libraries/memobj/nrf_memobj.h \
- C:/Users/aglenn5/AppData/Local/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stdlib.h \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/stdlib.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stdlib.h \
  ../../../../../SDK/components/libraries/balloc/nrf_balloc.h

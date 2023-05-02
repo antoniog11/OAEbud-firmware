@@ -31,6 +31,8 @@ SECTIONS
 
   . = ASSERT(__reserved_ram_start__ == __reserved_ram_end__ || (__reserved_ram_end__ - __RAM1_segment_start__) <= __RAM1_segment_size__ , "error: .reserved_ram is too large to fit in RAM1 memory segment");
 
+  . = ASSERT(__reserved_ram_size__ <= 0x20003750-0x20000000 , "error: .reserved_ram is larger than specified size");
+
   __vectors_ram_load_start__ = 0x20003750;
   .vectors_ram 0x20003750 (NOLOAD) : AT(0x20003750)
   {
@@ -70,6 +72,8 @@ SECTIONS
   __reserved_flash_load_end__ = __reserved_flash_end__;
 
   . = ASSERT(__reserved_flash_start__ == __reserved_flash_end__ || (__reserved_flash_end__ - __FLASH1_segment_start__) <= __FLASH1_segment_size__ , "error: .reserved_flash is too large to fit in FLASH1 memory segment");
+
+  . = ASSERT(__reserved_flash_size__ <= 0x27000-0x0 , "error: .reserved_flash is larger than specified size");
 
   __vectors_load_start__ = 0x27000;
   .vectors 0x27000 : AT(0x27000)
@@ -112,8 +116,7 @@ SECTIONS
   .text ALIGN(__init_rodata_end__ , 4) : AT(ALIGN(__init_rodata_end__ , 4))
   {
     __text_start__ = .;
-    *(.text .text.* .glue_7t .glue_7 .gnu.linkonce.t.* .gcc_except_table .ARM.extab* .gnu.linkonce.armextab.*)
-    . = ALIGN(MAX(__text_start__ + 0x4 , .), 4);
+    *(.text .text.* .gnu.linkonce.t.* .glue_7t .glue_7 .gcc_except_table .ARM.extab* .gnu.linkonce.armextab.*)
   }
   __text_end__ = __text_start__ + SIZEOF(.text);
   __text_size__ = SIZEOF(.text);
@@ -440,7 +443,6 @@ SECTIONS
   {
     __rodata_start__ = .;
     *(.rodata .rodata.* .gnu.linkonce.r.*)
-    . = ALIGN(MAX(__rodata_start__ + 0x4 , .), 4);
   }
   __rodata_end__ = __rodata_start__ + SIZEOF(.rodata);
   __rodata_size__ = SIZEOF(.rodata);
@@ -580,6 +582,8 @@ SECTIONS
 
   . = ASSERT(__heap_start__ == __heap_end__ || (__heap_end__ - __RAM1_segment_start__) <= __RAM1_segment_size__ , "error: .heap is too large to fit in RAM1 memory segment");
 
+  . = ASSERT(__heap_size__ <= __HEAPSIZE__ , "error: .heap is larger than specified size");
+
   __stack_load_start__ = __RAM1_segment_start__ + (__RAM1_segment_size__ - 32000);
   .stack __RAM1_segment_start__ + (__RAM1_segment_size__ - 32000) (NOLOAD) : AT(__RAM1_segment_start__ + (__RAM1_segment_size__ - 32000))
   {
@@ -596,6 +600,8 @@ SECTIONS
   . = ASSERT(__stack_start__ == __stack_end__ || (__stack_end__ - __RAM1_segment_start__) <= __RAM1_segment_size__ , "error: .stack is too large to fit in RAM1 memory segment");
   . = ASSERT(__heap_end__ <= __stack_start__ , "error: section .heap overlaps absolute placed section .stack");
 
+  . = ASSERT(__stack_size__ <= __STACKSIZE__ , "error: .stack is larger than specified size");
+
   __stack_process_load_start__ = ALIGN(__stack_end__ , 8);
   .stack_process ALIGN(__stack_end__ , 8) (NOLOAD) : AT(ALIGN(__stack_end__ , 8))
   {
@@ -611,6 +617,8 @@ SECTIONS
   __RAM1_segment_used_size__ = __RAM1_segment_used_end__ - __RAM1_segment_start__;
 
   . = ASSERT(__stack_process_start__ == __stack_process_end__ || (__stack_process_end__ - __RAM1_segment_start__) <= __RAM1_segment_size__ , "error: .stack_process is too large to fit in RAM1 memory segment");
+
+  . = ASSERT(__stack_process_size__ <= __STACKSIZE_PROCESS__ , "error: .stack_process is larger than specified size");
 
 }
 

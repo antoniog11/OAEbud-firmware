@@ -1,26 +1,22 @@
 Output/Debug/Obj/ble_app_template_pca10056_s140/nav.o: \
- /Users/antonioglenn/Desktop/OAEbud-firmware/src/nav.c \
- /Users/antonioglenn/Desktop/OAEbud-firmware/src/nav.h \
- /Users/antonioglenn/Library/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stdint.h \
- /Users/antonioglenn/Library/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/__config \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/stdint.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/__SEGGER_RTL.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/__SEGGER_RTL_ConfDefaults.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/__SEGGER_RTL_Conf.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/__SEGGER_RTL_Arm_Conf.h \
- /Users/antonioglenn/Library/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stdbool.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/stdbool.h \
- /Users/antonioglenn/Desktop/OAEbud-firmware/src/point.h \
- /Users/antonioglenn/Desktop/OAEbud-firmware/src/recorder.h \
- /Users/antonioglenn/Desktop/OAEbud-firmware/src/ringbuffer.h \
- /Users/antonioglenn/Desktop/OAEbud-firmware/src/motors.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/nav.c \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/nav.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stdint.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL_ConfDefaults.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL_Conf.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL_Arm_Conf.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stdbool.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/point.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/recorder.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/ringbuffer.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/motors.h \
  ../../../../../SDK/modules/nrfx/hal/nrf_gpio.h \
  ../../../../../SDK/modules/nrfx/nrfx.h \
  ../../../../../SDK/integration/nrfx/nrfx_config.h \
  ../../config/sdk_config.h \
  ../../../../../SDK/modules/nrfx/drivers/nrfx_common.h \
- /Users/antonioglenn/Library/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stddef.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/stddef.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stddef.h \
  ../../../../../SDK/modules/nrfx/mdk/nrf.h \
  ../../../../../SDK/modules/nrfx/mdk/nrf52840.h \
  ../../../../../SDK/components/toolchain/cmsis/include/core_cm4.h \
@@ -54,8 +50,7 @@ Output/Debug/Obj/ble_app_template_pca10056_s140/nav.o: \
  ../../../../../SDK/components/softdevice/s140/headers/nrf_nvic.h \
  ../../../../../SDK/components/libraries/util/nrf_assert.h \
  ../../../../../SDK/components/libraries/util/app_error.h \
- /Users/antonioglenn/Library/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stdio.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/stdio.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stdio.h \
  ../../../../../SDK/components/libraries/util/sdk_errors.h \
  ../../../../../SDK/components/softdevice/s140/headers/nrf_error.h \
  ../../../../../SDK/components/libraries/util/app_error_weak.h \
@@ -66,18 +61,15 @@ Output/Debug/Obj/ble_app_template_pca10056_s140/nav.o: \
  ../../../../../SDK/components/softdevice/s140/headers/nrf_sd_def.h \
  ../../../../../SDK/components/softdevice/s140/headers/nrf_soc.h \
  ../../../../../SDK/modules/nrfx/drivers/nrfx_errors.h \
- /Users/antonioglenn/Library/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/math.h \
- /Users/antonioglenn/Library/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stdlib.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/stdlib.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/math.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/__SEGGER_RTL_FP.h \
- /Users/antonioglenn/Desktop/OAEbud-firmware/src/gyro.h \
- /Users/antonioglenn/Desktop/OAEbud-firmware/src/sensors.h \
- /Users/antonioglenn/Desktop/OAEbud-firmware/src/timers.h \
- /Users/antonioglenn/Desktop/OAEbud-firmware/src/accel.h \
- /Users/antonioglenn/Desktop/OAEbud-firmware/src/event.h \
- /Users/antonioglenn/Desktop/OAEbud-firmware/src/led.h \
- /Users/antonioglenn/Desktop/OAEbud-firmware/src/ble_manager.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/math.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL_FP.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/gyro.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/sensors.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/timers.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/accel.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/event.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/led.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/ble_manager.h \
  ../../../../../SDK/components/ble/common/ble_srv_common.h \
  ../../../../../SDK/components/softdevice/s140/headers/ble_types.h \
  ../../../../../SDK/components/softdevice/s140/headers/ble.h \
@@ -92,11 +84,10 @@ Output/Debug/Obj/ble_app_template_pca10056_s140/nav.o: \
  ../../../../../SDK/components/softdevice/s140/headers/ble_gatts.h \
  ../../../../../SDK/components/softdevice/s140/headers/ble_gap.h \
  ../../../../../SDK/components/softdevice/s140/headers/ble_gatt.h \
- /Users/antonioglenn/Desktop/OAEbud-firmware/src/ble_dcs.h \
- /Users/antonioglenn/Desktop/OAEbud-firmware/src/ble_cus.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/ble_dcs.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/ble_cus.h \
  ../../../../../SDK/components/ble/nrf_ble_gatt/nrf_ble_gatt.h \
- /Users/antonioglenn/Library/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/string.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/string.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/string.h \
  ../../../../../SDK/components/softdevice/common/nrf_sdh_ble.h \
  ../../../../../SDK/components/libraries/experimental_section_vars/nrf_section_iter.h \
  ../../../../../SDK/components/libraries/experimental_section_vars/nrf_section.h \
@@ -106,14 +97,15 @@ Output/Debug/Obj/ble_app_template_pca10056_s140/nav.o: \
  ../../../../../SDK/components/libraries/util/app_util.h \
  ../../../../../SDK/components/libraries/util/sdk_macros.h \
  ../../../../../SDK/components/libraries/memobj/nrf_memobj.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stdlib.h \
  ../../../../../SDK/components/libraries/balloc/nrf_balloc.h \
  ../../../../../SDK/components/libraries/log/nrf_log_instance.h \
  ../../../../../SDK/components/libraries/experimental_section_vars/nrf_section.h \
  ../../../../../SDK/components/libraries/log/nrf_log_types.h \
  ../../../../../SDK/components/libraries/queue/nrf_queue.h \
- /Users/antonioglenn/Desktop/OAEbud-firmware/src/ble_config.h \
- /Users/antonioglenn/Desktop/OAEbud-firmware/src/audio_config.h \
- /Users/antonioglenn/Desktop/OAEbud-firmware/src/ir.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/ble_config.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/audio_config.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/ir.h \
  ../../../../../SDK/integration/nrfx/legacy/nrf_drv_gpiote.h \
  ../../../../../SDK/modules/nrfx/drivers/include/nrfx_gpiote.h \
  ../../../../../SDK/modules/nrfx/hal/nrf_gpiote.h \

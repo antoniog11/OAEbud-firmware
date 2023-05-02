@@ -1,22 +1,18 @@
 Output/Debug/Obj/ble_app_template_pca10056_s140/recorder.o: \
- /Users/antonioglenn/Desktop/OAEbud-firmware/src/recorder.c \
- /Users/antonioglenn/Desktop/OAEbud-firmware/src/recorder.h \
- /Users/antonioglenn/Desktop/OAEbud-firmware/src/ringbuffer.h \
- /Users/antonioglenn/Library/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stdint.h \
- /Users/antonioglenn/Library/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/__config \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/stdint.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/__SEGGER_RTL.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/__SEGGER_RTL_ConfDefaults.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/__SEGGER_RTL_Conf.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/__SEGGER_RTL_Arm_Conf.h \
- /Users/antonioglenn/Library/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stdbool.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/stdbool.h \
- /Users/antonioglenn/Desktop/OAEbud-firmware/src/ble_manager.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/recorder.c \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/recorder.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/ringbuffer.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stdint.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL_ConfDefaults.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL_Conf.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL_Arm_Conf.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stdbool.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/ble_manager.h \
  ../../../../../SDK/components/ble/common/ble_srv_common.h \
  ../../../../../SDK/components/softdevice/s140/headers/ble_types.h \
  ../../../../../SDK/components/libraries/util/app_util.h \
- /Users/antonioglenn/Library/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stddef.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/stddef.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stddef.h \
  ../../../../../SDK/modules/nrfx/mdk/compiler_abstraction.h \
  ../../../../../SDK/components/libraries/util/nordic_common.h \
  ../../../../../SDK/modules/nrfx/mdk/nrf.h \
@@ -47,24 +43,20 @@ Output/Debug/Obj/ble_app_template_pca10056_s140/recorder.o: \
  ../../../../../SDK/components/softdevice/s140/headers/ble_gatts.h \
  ../../../../../SDK/components/softdevice/s140/headers/ble_gap.h \
  ../../../../../SDK/components/softdevice/s140/headers/ble_gatt.h \
- /Users/antonioglenn/Desktop/OAEbud-firmware/src/sensors.h \
- /Users/antonioglenn/Desktop/OAEbud-firmware/src/point.h \
- /Users/antonioglenn/Desktop/OAEbud-firmware/src/nav.h \
- /Users/antonioglenn/Desktop/OAEbud-firmware/src/ble_config.h \
- /Users/antonioglenn/Desktop/OAEbud-firmware/src/audio_config.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/sensors.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/point.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/nav.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/ble_config.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/audio_config.h \
  ../../config/sdk_config.h \
- /Users/antonioglenn/Library/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stdlib.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/stdlib.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stdlib.h \
  ../../../../../SDK/components/toolchain/cmsis/dsp/Include/arm_const_structs.h \
  ../../../../../SDK/components/toolchain/cmsis/dsp/Include/arm_math.h \
  ../../../../../SDK/components/toolchain/cmsis/include/cmsis_compiler.h \
- /Users/antonioglenn/Library/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/string.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/string.h \
- /Users/antonioglenn/Library/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/math.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/math.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/__SEGGER_RTL_FP.h \
- /Users/antonioglenn/Library/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/float.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/float.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/string.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/math.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL_FP.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/float.h \
  ../../../../../SDK/components/toolchain/cmsis/dsp/Include/arm_common_tables.h \
  ../../../../../SDK/components/libraries/log/nrf_log.h \
  ../../../../../SDK/components/libraries/util/sdk_common.h \
@@ -82,9 +74,8 @@ Output/Debug/Obj/ble_app_template_pca10056_s140/recorder.o: \
  ../../../../../SDK/components/libraries/log/nrf_log_instance.h \
  ../../../../../SDK/components/libraries/log/nrf_log_types.h \
  ../../../../../SDK/components/libraries/log/nrf_log_types.h \
- /Users/antonioglenn/Desktop/OAEbud-firmware/src/timers.h \
- /Users/antonioglenn/Desktop/OAEbud-firmware/src/event.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/timers.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/event.h \
  ../../../../../SDK/components/libraries/util/app_error.h \
- /Users/antonioglenn/Library/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stdio.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/stdio.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stdio.h \
  ../../../../../SDK/components/libraries/util/app_error_weak.h

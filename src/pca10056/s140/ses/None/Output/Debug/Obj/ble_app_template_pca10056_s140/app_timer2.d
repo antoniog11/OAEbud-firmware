@@ -1,19 +1,15 @@
 Output/Debug/Obj/ble_app_template_pca10056_s140/app_timer2.o: \
- /Users/antonioglenn/Desktop/OAEbud-firmware/SDK/components/libraries/timer/app_timer2.c \
- /Users/antonioglenn/Desktop/OAEbud-firmware/SDK/components/libraries/timer/app_timer.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/SDK/components/libraries/timer/app_timer2.c \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/SDK/components/libraries/timer/app_timer.h \
  ../../config/sdk_config.h \
  ../../../../../SDK/components/libraries/util/app_error.h \
- /Users/antonioglenn/Library/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stdint.h \
- /Users/antonioglenn/Library/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/__config \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/stdint.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/__SEGGER_RTL.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/__SEGGER_RTL_ConfDefaults.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/__SEGGER_RTL_Conf.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/__SEGGER_RTL_Arm_Conf.h \
- /Users/antonioglenn/Library/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stdio.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/stdio.h \
- /Users/antonioglenn/Library/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stdbool.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/stdbool.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stdint.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL_ConfDefaults.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL_Conf.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL_Arm_Conf.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stdio.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stdbool.h \
  ../../../../../SDK/modules/nrfx/mdk/nrf.h \
  ../../../../../SDK/modules/nrfx/mdk/nrf52840.h \
  ../../../../../SDK/components/toolchain/cmsis/include/core_cm4.h \
@@ -31,8 +27,7 @@ Output/Debug/Obj/ble_app_template_pca10056_s140/app_timer2.o: \
  ../../../../../SDK/components/libraries/util/nordic_common.h \
  ../../../../../SDK/components/libraries/util/app_error_weak.h \
  ../../../../../SDK/components/libraries/util/app_util.h \
- /Users/antonioglenn/Library/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stddef.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/stddef.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stddef.h \
  ../../../../../SDK/modules/nrfx/mdk/compiler_abstraction.h \
  ../../../../../SDK/components/softdevice/s140/headers/nrf52/nrf_mbr.h \
  ../../../../../SDK/components/softdevice/s140/headers/nrf_svc.h \
@@ -70,13 +65,12 @@ Output/Debug/Obj/ble_app_template_pca10056_s140/app_timer2.o: \
  ../../../../../SDK/modules/nrfx/drivers/nrfx_errors.h \
  ../../../../../SDK/components/libraries/log/nrf_log.h \
  ../../../../../SDK/components/libraries/util/sdk_common.h \
- /Users/antonioglenn/Library/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/string.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/string.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/string.h \
  ../../../../../SDK/components/libraries/util/sdk_os.h \
  ../../../../../SDK/components/libraries/util/app_util.h \
  ../../../../../SDK/components/libraries/util/sdk_macros.h \
  ../../../../../SDK/components/libraries/strerror/nrf_strerror.h \
  ../../../../../SDK/components/libraries/log/src/nrf_log_internal.h \
  ../../../../../SDK/components/libraries/log/nrf_log_types.h \
- /Users/antonioglenn/Desktop/OAEbud-firmware/SDK/components/libraries/timer/drv_rtc.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/SDK/components/libraries/timer/drv_rtc.h \
  ../../../../../SDK/modules/nrfx/hal/nrf_rtc.h

@@ -1,14 +1,13 @@
 Output/Release/Obj/ble_app_template_pca10056_s140/ble_advdata.o: \
- C:\Users\aglenn5\Desktop\woofids-master\SDK\components\ble\common\ble_advdata.c \
- C:\Users\aglenn5\Desktop\woofids-master\SDK\components\ble\common\ble_advdata.h \
- C:/Users/aglenn5/AppData/Local/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stdint.h \
- C:/Users/aglenn5/AppData/Local/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/__config \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/stdint.h \
- C:/Users/aglenn5/AppData/Local/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stdbool.h \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/stdbool.h \
- C:/Users/aglenn5/AppData/Local/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/string.h \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/string.h \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/__crossworks.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/SDK/components/ble/common/ble_advdata.c \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/SDK/components/ble/common/ble_advdata.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stdint.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL_ConfDefaults.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL_Conf.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL_Arm_Conf.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stdbool.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/string.h \
  ../../../../../SDK/components/softdevice/s140/headers/ble.h \
  ../../../../../SDK/components/softdevice/s140/headers/nrf_svc.h \
  ../../../../../SDK/components/softdevice/s140/headers/nrf_error.h \
@@ -41,14 +40,13 @@ Output/Release/Obj/ble_app_template_pca10056_s140/ble_advdata.o: \
  ../../../../../SDK/components/libraries/util/sdk_errors.h \
  ../../../../../SDK/components/softdevice/s140/headers/nrf_error.h \
  ../../../../../SDK/components/libraries/util/app_util.h \
- C:/Users/aglenn5/AppData/Local/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stddef.h \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/stddef.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stddef.h \
  ../../../../../SDK/components/softdevice/s140/headers/nrf52/nrf_mbr.h \
  ../../../../../SDK/components/softdevice/s140/headers/nrf_svc.h \
  ../../../../../SDK/components/libraries/util/sdk_macros.h \
  ../../../../../SDK/components/libraries/util/nrf_assert.h \
  ../../../../../SDK/components/softdevice/s140/headers/ble_gap.h \
- C:\Users\aglenn5\Desktop\woofids-master\SDK\components\ble\common\ble_srv_common.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/SDK/components/ble/common/ble_srv_common.h \
  ../../../../../SDK/components/softdevice/s140/headers/ble_types.h \
  ../../../../../SDK/components/libraries/util/app_util.h \
  ../../../../../SDK/components/softdevice/s140/headers/ble_gatt.h

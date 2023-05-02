@@ -1,21 +1,17 @@
 Output/Debug/Obj/ble_app_template_pca10056_s140/mlp_data.o: \
- /Users/antonioglenn/Desktop/OAEbud-firmware/src/libraries/opus-1.2.1/mlp_data.c \
- /Users/antonioglenn/Desktop/OAEbud-firmware/src/libraries/opus-1.2.1/mlp.h \
- /Users/antonioglenn/Desktop/OAEbud-firmware/src/libraries/opus-1.2.1/arch.h \
- /Users/antonioglenn/Desktop/OAEbud-firmware/src/libraries/opus-1.2.1/opus_types.h \
- /Users/antonioglenn/Library/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stdint.h \
- /Users/antonioglenn/Library/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/__config \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/stdint.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/__SEGGER_RTL.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/__SEGGER_RTL_ConfDefaults.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/__SEGGER_RTL_Conf.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/__SEGGER_RTL_Arm_Conf.h \
- /Users/antonioglenn/Desktop/OAEbud-firmware/src/libraries/opus-1.2.1/opus_defines.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/libraries/opus-1.2.1/mlp_data.c \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/libraries/opus-1.2.1/mlp.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/libraries/opus-1.2.1/arch.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/libraries/opus-1.2.1/opus_types.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stdint.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL_ConfDefaults.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL_Conf.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL_Arm_Conf.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/libraries/opus-1.2.1/opus_defines.h \
  ../../../../../SDK/components/libraries/util/app_error.h \
- /Users/antonioglenn/Library/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stdio.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/stdio.h \
- /Users/antonioglenn/Library/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stdbool.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/stdbool.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stdio.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stdbool.h \
  ../../../../../SDK/modules/nrfx/mdk/nrf.h \
  ../../../../../SDK/modules/nrfx/mdk/nrf52840.h \
  ../../../../../SDK/components/toolchain/cmsis/include/core_cm4.h \
@@ -32,8 +28,7 @@ Output/Debug/Obj/ble_app_template_pca10056_s140/mlp_data.o: \
  ../../../../../SDK/components/softdevice/s140/headers/nrf_error.h \
  ../../../../../SDK/components/libraries/util/nordic_common.h \
  ../../../../../SDK/components/libraries/util/app_error_weak.h \
- /Users/antonioglenn/Library/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stdlib.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/stdlib.h \
- /Users/antonioglenn/Desktop/OAEbud-firmware/src/libraries/opus-1.2.1/fixed_generic.h \
- /Users/antonioglenn/Desktop/OAEbud-firmware/src/libraries/opus-1.2.1/arm/fixed_armv5e.h \
- /Users/antonioglenn/Desktop/OAEbud-firmware/src/libraries/opus-1.2.1/arm/fixed_armv4.h
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stdlib.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/libraries/opus-1.2.1/fixed_generic.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/libraries/opus-1.2.1/arm/fixed_armv5e.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/libraries/opus-1.2.1/arm/fixed_armv4.h

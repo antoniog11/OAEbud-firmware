@@ -1,17 +1,13 @@
 Output/Debug/Obj/ble_app_template_pca10056_s140/ble_advertising.o: \
- /Users/antonioglenn/Desktop/OAEbud-firmware/SDK/components/ble/ble_advertising/ble_advertising.c \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/SDK/components/ble/ble_advertising/ble_advertising.c \
  ../../../../../SDK/components/libraries/util/sdk_common.h \
- /Users/antonioglenn/Library/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stdint.h \
- /Users/antonioglenn/Library/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/__config \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/stdint.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/__SEGGER_RTL.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/__SEGGER_RTL_ConfDefaults.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/__SEGGER_RTL_Conf.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/__SEGGER_RTL_Arm_Conf.h \
- /Users/antonioglenn/Library/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stdbool.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/stdbool.h \
- /Users/antonioglenn/Library/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/string.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/string.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stdint.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL_ConfDefaults.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL_Conf.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL_Arm_Conf.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stdbool.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/string.h \
  ../../config/sdk_config.h \
  ../../../../../SDK/components/libraries/util/nordic_common.h \
  ../../../../../SDK/modules/nrfx/mdk/compiler_abstraction.h \
@@ -19,8 +15,7 @@ Output/Debug/Obj/ble_app_template_pca10056_s140/ble_advertising.o: \
  ../../../../../SDK/components/libraries/util/sdk_errors.h \
  ../../../../../SDK/components/softdevice/s140/headers/nrf_error.h \
  ../../../../../SDK/components/libraries/util/app_util.h \
- /Users/antonioglenn/Library/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stddef.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 6.30/include/stddef.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stddef.h \
  ../../../../../SDK/modules/nrfx/mdk/nrf.h \
  ../../../../../SDK/modules/nrfx/mdk/nrf52840.h \
  ../../../../../SDK/components/toolchain/cmsis/include/core_cm4.h \
@@ -50,7 +45,7 @@ Output/Debug/Obj/ble_app_template_pca10056_s140/ble_advertising.o: \
  ../../../../../SDK/components/softdevice/s140/headers/ble_gatt.h \
  ../../../../../SDK/components/softdevice/s140/headers/ble_gattc.h \
  ../../../../../SDK/components/softdevice/s140/headers/ble_gatts.h \
- /Users/antonioglenn/Desktop/OAEbud-firmware/SDK/components/ble/ble_advertising/ble_advertising.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/SDK/components/ble/ble_advertising/ble_advertising.h \
  ../../../../../SDK/components/softdevice/s140/headers/ble_gap.h \
  ../../../../../SDK/components/softdevice/s140/headers/ble_gattc.h \
  ../../../../../SDK/components/softdevice/s140/headers/nrf_soc.h \

@@ -1,15 +1,14 @@
 Output/Release/Obj/ble_app_template_pca10056_s140/gyro.o: \
- C:\Users\aglenn5\Desktop\woofids-master\woofids-master\gyro.c \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/gyro.c \
  ../../../../../SDK/components/libraries/log/nrf_log.h \
  ../../../../../SDK/components/libraries/util/sdk_common.h \
- C:/Users/aglenn5/AppData/Local/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stdint.h \
- C:/Users/aglenn5/AppData/Local/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/__config \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/stdint.h \
- C:/Users/aglenn5/AppData/Local/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stdbool.h \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/stdbool.h \
- C:/Users/aglenn5/AppData/Local/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/string.h \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/string.h \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/__crossworks.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stdint.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL_ConfDefaults.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL_Conf.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL_Arm_Conf.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stdbool.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/string.h \
  ../../config/sdk_config.h \
  ../../../../../SDK/components/libraries/util/nordic_common.h \
  ../../../../../SDK/modules/nrfx/mdk/compiler_abstraction.h \
@@ -17,8 +16,7 @@ Output/Release/Obj/ble_app_template_pca10056_s140/gyro.o: \
  ../../../../../SDK/components/libraries/util/sdk_errors.h \
  ../../../../../SDK/components/softdevice/s140/headers/nrf_error.h \
  ../../../../../SDK/components/libraries/util/app_util.h \
- C:/Users/aglenn5/AppData/Local/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stddef.h \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/stddef.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stddef.h \
  ../../../../../SDK/modules/nrfx/mdk/nrf.h \
  ../../../../../SDK/modules/nrfx/mdk/nrf52840.h \
  ../../../../../SDK/components/toolchain/cmsis/include/core_cm4.h \
@@ -44,10 +42,8 @@ Output/Release/Obj/ble_app_template_pca10056_s140/gyro.o: \
  ../../../../../SDK/components/libraries/log/nrf_log_instance.h \
  ../../../../../SDK/components/libraries/log/nrf_log_types.h \
  ../../../../../SDK/components/libraries/log/nrf_log_types.h \
- C:/Users/aglenn5/AppData/Local/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/math.h \
- C:/Users/aglenn5/AppData/Local/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stdlib.h \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/stdlib.h \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/math.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/math.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL_FP.h \
  ../../../../../SDK/integration/nrfx/legacy/nrf_drv_gpiote.h \
  ../../../../../SDK/modules/nrfx/drivers/include/nrfx_gpiote.h \
  ../../../../../SDK/modules/nrfx/nrfx.h \
@@ -67,8 +63,7 @@ Output/Release/Obj/ble_app_template_pca10056_s140/gyro.o: \
  ../../../../../SDK/components/softdevice/s140/headers/nrf_error_soc.h \
  ../../../../../SDK/components/softdevice/s140/headers/nrf_nvic.h \
  ../../../../../SDK/components/libraries/util/app_error.h \
- C:/Users/aglenn5/AppData/Local/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stdio.h \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/stdio.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stdio.h \
  ../../../../../SDK/components/libraries/util/app_error_weak.h \
  ../../../../../SDK/modules/nrfx/soc/nrfx_coredep.h \
  ../../../../../SDK/modules/nrfx/soc/nrfx_atomic.h \
@@ -79,11 +74,11 @@ Output/Release/Obj/ble_app_template_pca10056_s140/gyro.o: \
  ../../../../../SDK/modules/nrfx/hal/nrf_gpiote.h \
  ../../../../../SDK/modules/nrfx/hal/nrf_gpio.h \
  ../../../../../SDK/modules/nrfx/hal/nrf_gpiote.h \
- C:\Users\aglenn5\Desktop\woofids-master\woofids-master\lsm6dso_reg.h \
- C:\Users\aglenn5\Desktop\woofids-master\woofids-master\gyro.h \
- C:\Users\aglenn5\Desktop\woofids-master\woofids-master\sensors.h \
- C:\Users\aglenn5\Desktop\woofids-master\woofids-master\i2c.h \
- C:\Users\aglenn5\Desktop\woofids-master\woofids-master\i2c_config.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/lsm6dso_reg.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/gyro.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/sensors.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/i2c.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/i2c_config.h \
  ../../../../../SDK/modules/nrfx/hal/nrf_gpio.h \
  ../../../../../SDK/integration/nrfx/legacy/nrf_drv_twi.h \
  ../../../../../SDK/modules/nrfx/drivers/include/nrfx_twim.h \
@@ -91,8 +86,8 @@ Output/Release/Obj/ble_app_template_pca10056_s140/gyro.o: \
  ../../../../../SDK/modules/nrfx/hal/nrf_twim.h \
  ../../../../../SDK/modules/nrfx/drivers/include/nrfx_twi.h \
  ../../../../../SDK/modules/nrfx/hal/nrf_twi.h \
- C:\Users\aglenn5\Desktop\woofids-master\woofids-master\ble_sss.h \
- C:\Users\aglenn5\Desktop\woofids-master\woofids-master\ble_cus.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/ble_sss.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/ble_cus.h \
  ../../../../../SDK/components/softdevice/s140/headers/ble.h \
  ../../../../../SDK/components/softdevice/s140/headers/ble_err.h \
  ../../../../../SDK/components/softdevice/s140/headers/ble_gap.h \
@@ -113,8 +108,9 @@ Output/Release/Obj/ble_app_template_pca10056_s140/gyro.o: \
  ../../../../../SDK/components/libraries/experimental_section_vars/nrf_section.h \
  ../../../../../SDK/components/ble/nrf_ble_gq/nrf_ble_gq.h \
  ../../../../../SDK/components/libraries/memobj/nrf_memobj.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stdlib.h \
  ../../../../../SDK/components/libraries/balloc/nrf_balloc.h \
  ../../../../../SDK/components/libraries/queue/nrf_queue.h \
- C:\Users\aglenn5\Desktop\woofids-master\woofids-master\ble_config.h \
- C:\Users\aglenn5\Desktop\woofids-master\woofids-master\audio_config.h \
- C:\Users\aglenn5\Desktop\woofids-master\woofids-master\event.h
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/ble_config.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/audio_config.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/event.h

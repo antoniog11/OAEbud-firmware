@@ -1,14 +1,15 @@
 Output/Release/Obj/ble_app_template_pca10056_s140/gpio.o: \
- C:\Users\aglenn5\Desktop\woofids-master\woofids-master\gpio.c \
- C:/Users/aglenn5/AppData/Local/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stdbool.h \
- C:/Users/aglenn5/AppData/Local/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/__config \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/stdbool.h \
- C:\Users\aglenn5\Desktop\woofids-master\woofids-master\event.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/gpio.c \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stdbool.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/event.h \
  ../../../../../SDK/modules/nrfx/mdk/nrf.h \
  ../../../../../SDK/modules/nrfx/mdk/nrf52840.h \
  ../../../../../SDK/components/toolchain/cmsis/include/core_cm4.h \
- C:/Users/aglenn5/AppData/Local/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stdint.h \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/stdint.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stdint.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL_ConfDefaults.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL_Conf.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL_Arm_Conf.h \
  ../../../../../SDK/components/toolchain/cmsis/include/cmsis_version.h \
  ../../../../../SDK/components/toolchain/cmsis/include/cmsis_compiler.h \
  ../../../../../SDK/components/toolchain/cmsis/include/cmsis_gcc.h \
@@ -24,9 +25,7 @@ Output/Release/Obj/ble_app_template_pca10056_s140/gpio.o: \
  ../../../../../SDK/integration/nrfx/nrfx_config.h \
  ../../config/sdk_config.h \
  ../../../../../SDK/modules/nrfx/drivers/nrfx_common.h \
- C:/Users/aglenn5/AppData/Local/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stddef.h \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/stddef.h \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/__crossworks.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stddef.h \
  ../../../../../SDK/modules/nrfx/mdk/nrf_peripherals.h \
  ../../../../../SDK/modules/nrfx/mdk/nrf52840_peripherals.h \
  ../../../../../SDK/integration/nrfx/nrfx_glue.h \
@@ -48,8 +47,7 @@ Output/Release/Obj/ble_app_template_pca10056_s140/gpio.o: \
  ../../../../../SDK/components/softdevice/s140/headers/nrf_nvic.h \
  ../../../../../SDK/components/libraries/util/nrf_assert.h \
  ../../../../../SDK/components/libraries/util/app_error.h \
- C:/Users/aglenn5/AppData/Local/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stdio.h \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/stdio.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stdio.h \
  ../../../../../SDK/components/libraries/util/sdk_errors.h \
  ../../../../../SDK/components/softdevice/s140/headers/nrf_error.h \
  ../../../../../SDK/components/libraries/util/app_error_weak.h \
@@ -66,4 +64,4 @@ Output/Release/Obj/ble_app_template_pca10056_s140/gpio.o: \
  ../../../../../SDK/components/boards/boards.h \
  ../../../../../SDK/modules/nrfx/hal/nrf_gpio.h \
  ../../../../../SDK/components/boards/pca10056.h \
- C:\Users\aglenn5\Desktop\woofids-master\woofids-master\gpio.h
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/gpio.h

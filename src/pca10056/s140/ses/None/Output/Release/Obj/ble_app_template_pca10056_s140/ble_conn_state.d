@@ -1,11 +1,12 @@
 Output/Release/Obj/ble_app_template_pca10056_s140/ble_conn_state.o: \
- C:\Users\aglenn5\Desktop\woofids-master\SDK\components\ble\common\ble_conn_state.c \
- C:\Users\aglenn5\Desktop\woofids-master\SDK\components\ble\common\ble_conn_state.h \
- C:/Users/aglenn5/AppData/Local/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stdbool.h \
- C:/Users/aglenn5/AppData/Local/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/__config \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/stdbool.h \
- C:/Users/aglenn5/AppData/Local/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stdint.h \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/stdint.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/SDK/components/ble/common/ble_conn_state.c \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/SDK/components/ble/common/ble_conn_state.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stdbool.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stdint.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL_ConfDefaults.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL_Conf.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL_Arm_Conf.h \
  ../../../../../SDK/components/softdevice/s140/headers/ble.h \
  ../../../../../SDK/components/softdevice/s140/headers/nrf_svc.h \
  ../../../../../SDK/components/softdevice/s140/headers/nrf_error.h \
@@ -33,9 +34,7 @@ Output/Release/Obj/ble_app_template_pca10056_s140/ble_conn_state.o: \
  ../../../../../SDK/components/softdevice/s140/headers/ble_gap.h \
  ../../../../../SDK/components/libraries/atomic/nrf_atomic.h \
  ../../../../../SDK/components/libraries/util/sdk_common.h \
- C:/Users/aglenn5/AppData/Local/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/string.h \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/string.h \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/__crossworks.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/string.h \
  ../../config/sdk_config.h \
  ../../../../../SDK/components/libraries/util/nordic_common.h \
  ../../../../../SDK/modules/nrfx/mdk/compiler_abstraction.h \
@@ -43,16 +42,14 @@ Output/Release/Obj/ble_app_template_pca10056_s140/ble_conn_state.o: \
  ../../../../../SDK/components/libraries/util/sdk_errors.h \
  ../../../../../SDK/components/softdevice/s140/headers/nrf_error.h \
  ../../../../../SDK/components/libraries/util/app_util.h \
- C:/Users/aglenn5/AppData/Local/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stddef.h \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/stddef.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stddef.h \
  ../../../../../SDK/components/softdevice/s140/headers/nrf52/nrf_mbr.h \
  ../../../../../SDK/components/softdevice/s140/headers/nrf_svc.h \
  ../../../../../SDK/components/libraries/util/sdk_macros.h \
  ../../../../../SDK/components/libraries/util/nrf_assert.h \
  ../../../../../SDK/components/libraries/atomic_flags/nrf_atflags.h \
  ../../../../../SDK/components/libraries/util/app_error.h \
- C:/Users/aglenn5/AppData/Local/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stdio.h \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/stdio.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stdio.h \
  ../../../../../SDK/components/libraries/util/app_error_weak.h \
  ../../../../../SDK/components/softdevice/common/nrf_sdh_ble.h \
  ../../../../../SDK/components/libraries/util/app_util.h \

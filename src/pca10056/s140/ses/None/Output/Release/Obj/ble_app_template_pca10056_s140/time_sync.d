@@ -1,11 +1,12 @@
 Output/Release/Obj/ble_app_template_pca10056_s140/time_sync.o: \
- C:\Users\aglenn5\Desktop\woofids-master\woofids-master\time_sync.c \
- C:\Users\aglenn5\Desktop\woofids-master\woofids-master\time_sync.h \
- C:/Users/aglenn5/AppData/Local/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stdbool.h \
- C:/Users/aglenn5/AppData/Local/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/__config \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/stdbool.h \
- C:/Users/aglenn5/AppData/Local/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stdint.h \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/stdint.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/time_sync.c \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/time_sync.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stdbool.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stdint.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL_ConfDefaults.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL_Conf.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/__SEGGER_RTL_Arm_Conf.h \
  ../../../../../SDK/modules/nrfx/mdk/nrf.h \
  ../../../../../SDK/modules/nrfx/mdk/nrf52840.h \
  ../../../../../SDK/components/toolchain/cmsis/include/core_cm4.h \
@@ -18,12 +19,9 @@ Output/Release/Obj/ble_app_template_pca10056_s140/time_sync.o: \
  ../../../../../SDK/modules/nrfx/mdk/nrf51_to_nrf52840.h \
  ../../../../../SDK/modules/nrfx/mdk/nrf52_to_nrf52840.h \
  ../../../../../SDK/modules/nrfx/mdk/compiler_abstraction.h \
- C:/Users/aglenn5/AppData/Local/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/string.h \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/string.h \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/__crossworks.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/string.h \
  ../../../../../SDK/components/libraries/util/app_error.h \
- C:/Users/aglenn5/AppData/Local/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stdio.h \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/stdio.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stdio.h \
  ../../../../../SDK/components/libraries/util/sdk_errors.h \
  ../../../../../SDK/components/softdevice/s140/headers/nrf_error.h \
  ../../../../../SDK/components/libraries/util/nordic_common.h \
@@ -42,8 +40,7 @@ Output/Release/Obj/ble_app_template_pca10056_s140/time_sync.o: \
  ../../config/sdk_config.h \
  ../../../../../SDK/components/libraries/util/sdk_os.h \
  ../../../../../SDK/components/libraries/util/app_util.h \
- C:/Users/aglenn5/AppData/Local/SEGGER/SEGGER\ Embedded\ Studio/v3/packages/libraries/libcxx/include/stddef.h \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/stddef.h \
+ /usr/share/segger_embedded_studio_for_arm_6.40/include/stddef.h \
  ../../../../../SDK/components/softdevice/s140/headers/nrf52/nrf_mbr.h \
  ../../../../../SDK/components/softdevice/s140/headers/nrf_svc.h \
  ../../../../../SDK/components/libraries/util/sdk_macros.h \
@@ -61,8 +58,8 @@ Output/Release/Obj/ble_app_template_pca10056_s140/time_sync.o: \
  ../../../../../SDK/components/softdevice/s140/headers/nrf_sdm.h \
  ../../../../../SDK/components/softdevice/s140/headers/nrf_error_sdm.h \
  ../../../../../SDK/components/softdevice/s140/headers/nrf_soc.h \
- C:\Users\aglenn5\Desktop\woofids-master\woofids-master\event.h \
- C:\Users\aglenn5\Desktop\woofids-master\woofids-master\timers.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/event.h \
+ /home/malek/UW/Projects/WirelessHardware/firmware/OAEbud-firmware/src/timers.h \
  ../../../../../SDK/components/libraries/log/nrf_log.h \
  ../../../../../SDK/components/libraries/strerror/nrf_strerror.h \
  ../../../../../SDK/components/libraries/log/src/nrf_log_internal.h \
